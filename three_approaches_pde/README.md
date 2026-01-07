@@ -1,4 +1,4 @@
-# pde-notes
+# three_approaches_pde
 Three approaches to solving a linear parabolic PDE: gauge transformation, Feynman–Kac, and Fourier method.
 
 This note presents three complementary approaches to the same linear parabolic PDE:

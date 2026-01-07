@@ -1,4 +1,4 @@
-# PDE Notes
+# pde_notes
 
 This directory collects notes, experiments, and small implementations related to
 partial differential equations (PDEs).

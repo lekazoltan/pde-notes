@@ -1,7 +1,6 @@
 # pde_notes
 
-This directory collects notes, experiments, and small implementations related to
-partial differential equations (PDEs). The project was inspired by reasoning tasks encountered in LLM evaluation.
+Several of the questions developed here were inspired by reasoning tasks encountered during large language model evaluation.
 
 The content is exploratory in nature and may include:
 - different solution techniques for the same equation,
